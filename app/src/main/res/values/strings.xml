@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Top Ten Players</string>
+    <string name="textview_mainactivity_championname">TextView</string>
+    <string name="button_mainactivity_next">Button</string>
+    <string name="button_mainactivity_preious">Button</string>
+</resources>
